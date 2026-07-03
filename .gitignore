@@ -5,6 +5,9 @@ frontend/.env.local
 frontend/.env.*.local
 *.tsbuildinfo
 
+# Vite cache
+.vite/
+
 # Python-generated files
 __pycache__/
 *.py[oc]
