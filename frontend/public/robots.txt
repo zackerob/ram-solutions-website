@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robertsamsolutions.com/sitemap.xml
