@@ -5,9 +5,11 @@ description = "RAM Solutions website backend (FastAPI)"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "asyncpg>=0.31.0",
     "fastapi>=0.136.1",
     "pydantic-ai>=1.89.1",
     "pydantic-settings>=2.14.0",
+    "sqlalchemy>=2.0.51",
     "supabase>=2.0.0",
     "uvicorn>=0.46.0",
 ]
